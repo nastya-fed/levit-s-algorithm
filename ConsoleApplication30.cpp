@@ -40,7 +40,7 @@ int main(){
   
     srand(time(0));
     int c = 0;
-    while(c < 1000){
+    while(c < 30){
         cout << c << "\n";
         c++;
         int n = 100, v1 = 0, W = 100;
